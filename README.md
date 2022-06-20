@@ -6,5 +6,5 @@
 * 6/21 (Sung Eun Kim) sign up sheet: https://docs.google.com/spreadsheets/d/1eo_Hee7BEWIePSjrr3byX4aghZl6gQWkivdkJhYNA94/edit?usp=sharing
 * Sign-up sheet for lightening talks (deadline: 6/21 midnight): https://docs.google.com/spreadsheets/d/1GlpK-n6jCaGT0aAh36LLhYWT4luB3242Hqca9NgFu4Y/edit?usp=sharing
 * 6/24 (Eric Gianella) sign up sheet: https://docs.google.com/spreadsheets/d/1LV-yWyboS43nrM4gB5FdY_PK79zj20yGhOcj_BXJjLg/edit?usp=sharing
-* Lightning talks GoogleDrive folder (deadline: 6/22 2pm): https://drive.google.com/drive/folders/1KsbZTeruUbUnMc7VWbunG54i3s5jN9aE?usp=sharing
-* 
+* Lightening talks signup sheet (daedline 6/22 2pm): https://docs.google.com/spreadsheets/d/1GlpK-n6jCaGT0aAh36LLhYWT4luB3242Hqca9NgFu4Y/edit?usp=sharing
+* Lightening talks GoogleDrive folder (deadline: 6/22 2pm): https://drive.google.com/drive/folders/1KsbZTeruUbUnMc7VWbunG54i3s5jN9aE?usp=sharing
