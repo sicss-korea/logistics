@@ -14,3 +14,11 @@
 
 ## 6/24 
 * 6/24 (Eric Gianella) sign up sheet: https://docs.google.com/spreadsheets/d/1LV-yWyboS43nrM4gB5FdY_PK79zj20yGhOcj_BXJjLg/edit?usp=sharing
+
+## 6/26
+* 6/26 (Hyejin Youn) sign up sheet:
+https://docs.google.com/spreadsheets/d/1FRNVDKQgxvubR8HvL2Zg_I8RZ_5oaqRFS7a9oRMRf_M/edit?usp=sharing
+
+## 6/27
+* 6/27 (Jin Young Kim) sign up sheet:
+https://docs.google.com/spreadsheets/d/10CgVIy39-r-L7-RTDYsGUH-XL8_oGjDmMiNAp80QZ78/edit?usp=sharing
